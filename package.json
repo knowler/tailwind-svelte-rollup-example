@@ -15,5 +15,8 @@
     "rollup-plugin-terser": "^4.0.4",
     "svelte": "^3.4.2",
     "tailwindcss": "^1.0.1"
+  },
+  "dependencies": {
+    "validator": "^10.11.0"
   }
 }

@@ -1,3 +1,17 @@
 @tailwind base;
+
+html {
+  height: 100%;
+}
+
+body, #app {
+  min-height: 100vh;
+}
+
+a,
+input {
+  transition: 0.3s ease;
+}
+
 @tailwind components;
 @tailwind utilities;
