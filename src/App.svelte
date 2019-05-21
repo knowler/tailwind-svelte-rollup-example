@@ -8,9 +8,9 @@
   }
 </script>
 
-<main class="max-w-xl w-full">
+<main class="max-w-xl w-full p-4">
   <div class="shadow bg-indigo-100 border border-indigo-200 rounded p-4">
-    <h1 class="text-4xl font-thin text-indigo-500 mb-3">Hello {@html name}!</h1>
+    <h1 class="text-4xl font-thin text-indigo-600 mb-3">Hello {@html name}!</h1>
     <input
       name='name'
       placeholder='What’s your name?'
